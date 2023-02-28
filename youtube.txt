@@ -1,1 +1,2 @@
 www.youtube.com##ytd-ad-slot-renderer
+www.youtube.com##ytd-statement-banner-renderer
